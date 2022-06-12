@@ -1,0 +1,39 @@
+For cookie storage
+https://keikaavousi.medium.com/nodejs-authentication-with-jwt-and-cookies-3fb1c8c739ba
+https://livecodestream.dev/post/a-practical-guide-to-jwt-authentication-with-nodejs/
+
+For jwt auth
+https://medium.com/swlh/nodejs-with-jwt-authentication-feb961763541
+
+For password reset
+https://dev.to/cyberwolve/how-to-implement-password-reset-via-email-in-node-js-132m
+
+For token based auth
+https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/
+
+For send email
+https://betterprogramming.pub/how-to-create-a-signup-confirmation-email-with-node-js-c2fea602872a
+
+For verify account reference
+https://faun.pub/verifying-emails-b95a0c1c3809
+
+// response reference
+https://blog.devgenius.io/nodejs-make-your-api-response-nicely-f562f78cb67
+
+For refresh token & cookie
+https://www.geeksforgeeks.org/jwt-authentication-with-refresh-tokens/
+
+For refresh token as well as setup validation
+https://dev.to/cyberwolve/jwt-authentication-with-access-tokens-refresh-tokens-in-node-js-5aa9
+
+For logger 
+https://www.youtube.com/watch?v=A5YiqaQbsyI
+
+Pino logger
+https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/ 
+
+Firebase
+https://tudip.com/blog-post/how-to-send-push-notifications-to-android-devices-in-nodejs/
+
+FCM Process
+https://sendbird.com/docs/chat/v3/android/guides/push-notifications-multi-device-support
